@@ -1,11 +1,6 @@
 ## VoiceModuleRecorder
 ESP32 audio recorder inspired by work done by "ThatProject"
 
-## VoiceModuleRecorder
-***Author: Filip Hanus - Tribonix***
-   
-__Contact: filiphanus1@gmail.com__
-
 ## Details
 Inspired by the two following repositories.
 
