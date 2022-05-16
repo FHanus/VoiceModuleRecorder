@@ -1,2 +1,2 @@
 # VoiceModuleRecorder
-ESP32 Code that records and stores I2S audio, then lists it on web server
+ESP32 audio recorder inspired by https://github.com/0015/ThatProject/blob/master/ESP32_MICROPHONE/ESP32_INMP441_RECORDING/ESP32_INMP441_RECORDING.ino
